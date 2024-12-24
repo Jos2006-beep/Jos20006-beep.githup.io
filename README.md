@@ -1,4 +1,3 @@
-# Jos20006-beep.githup.io
 <!DOCTYPE html>
 <html lang="id">
 <head>
